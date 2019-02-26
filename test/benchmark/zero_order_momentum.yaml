@@ -1,5 +1,4 @@
-algorithms:
-  ZeroOrderMomentumOptimizer: null
+algorithms: ZeroOrderMomentumOptimizer 
     # NOTE: Add arguments here if necessary
 
 database:
