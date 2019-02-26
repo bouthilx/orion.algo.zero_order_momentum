@@ -1,0 +1,6 @@
+algorithms:
+  ZeroOrderMomentumOptimizer: null
+    # NOTE: Add arguments here if necessary
+
+database:
+  type: 'EphemeralDB'
